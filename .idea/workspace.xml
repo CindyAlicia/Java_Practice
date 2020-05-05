@@ -1,11 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/abstractclasses/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/abstractclasses/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/abstractclasses/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/abstractclasses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/anonymousclasses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/castingnumericalvalues/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/encapsulationandtheapidocs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/equals/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/genericsandwildcards/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/handelingexceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/handelingexceptions2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/handelingexceptions3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/innerclasses/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/multipleexceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/multipleexceptions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/polymorphism/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/polymorphism/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/publicprivateandprotected/Grass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/publicprivateandprotected/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/publicprivateandprotected2/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/publicprivateandprotected2/Oak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/publicprivateandprotected2/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/readfileswithfilereader/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/readingtextfiles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/runtimeexceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/throwingexceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/throwingexceptions/ServerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/throwingexceptions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/trywithresources/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/trywithresources/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/upcastinganddowncasting/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/usinggenerics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caveofprogramming/writingtextfiles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Arrays/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/arrays/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/ArraysOfStrings/ArraysOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/arraysofstrings/ArraysOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/ClassesAndObjects/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/classesandobjects/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/ClassesAndObjects/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/classesandobjects/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Constructors/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/constructors/Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Constructors/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/constructors/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/DoWhile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/dowhile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/ForLoops/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/forloops/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/GettersAndReturnValues/HumanBeing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/gettersandreturnvalues/HumanBeing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/GettersAndReturnValues/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/gettersandreturnvalues/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/HelloWorld/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/helloworld/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/If/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/ifstatement/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/inheritance/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Inheritance/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/inheritance/Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Interfaces/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/interfaces/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Interfaces/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/interfaces/Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/interfaces/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Interfaces/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/interfaces/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Method/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/method/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Method/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/method/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/MethodParameters/Cyborg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/methodparameters/Cyborg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/MethodParameters/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/methodparameters/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/MultiDimensionalArrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/multidimensionalarrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/SettersAndThis/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/settersandthis/Frog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/SettersAndThis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/settersandthis/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/StaticVariablesAndMethods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/staticvariablesandmethods/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/StaticVariablesAndMethods/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/staticvariablesandmethods/Thing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/StringBuilderAndStringFormatting/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/stringbuilderandstringformatting/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Strings/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/strings/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/Switch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/switches/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/UserInput/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/userInput/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/UsingVariables/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/usingvariables/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/WhileLoops/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/whileloops/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/toString/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/tostring/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaveOfProgramming/toString/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caveofprogramming/tostring/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +141,11 @@
     <ui_properties converted="true" />
     <breakpoint_rules converted="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaFxApplication" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -74,16 +159,18 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1YlrfJk5fqeNYoHECjB52p49SMS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -91,7 +178,6 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
@@ -104,7 +190,12 @@
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.ArraysOfStrings">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Intellij\Java_Practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -123,13 +214,13 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
-    <configuration name="ArraysOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaveOfProgramming.ArraysOfStrings.ArraysOfStrings" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caveofprogramming.equals.Main" />
       <module name="Java_Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CaveOfProgramming.ArraysOfStrings.*" />
+          <option name="PATTERN" value="caveofprogramming.equals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,40 +229,12 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaveOfProgramming.DoWhile.Main" />
+      <option name="MAIN_CLASS_NAME" value="caveofprogramming.writingtextfiles.Main" />
       <module name="Java_Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CaveOfProgramming.DoWhile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaveOfProgramming.Switch.Main" />
-      <module name="Java_Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CaveOfProgramming.Switch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaveOfProgramming.StringBuilderAndStringFormatting.Main" />
-      <module name="Java_Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CaveOfProgramming.StringBuilderAndStringFormatting.*" />
+          <option name="PATTERN" value="caveofprogramming.writingtextfiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +243,54 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaveOfProgramming.Interfaces.Main" />
+      <option name="MAIN_CLASS_NAME" value="caveofprogramming.readfileswithfilereader.Main" />
       <module name="Java_Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CaveOfProgramming.Interfaces.*" />
+          <option name="PATTERN" value="caveofprogramming.readfileswithfilereader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caveofprogramming.trywithresources.Main" />
+      <module name="Java_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caveofprogramming.trywithresources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caveofprogramming.trywithresources.Main2" />
+      <module name="Java_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caveofprogramming.trywithresources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caveofprogramming.interfaces.Main" />
+      <module name="Java_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caveofprogramming.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,7 +300,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="Java_Practice" />
+      <module name="Practise1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -225,53 +330,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Java_Practice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Java_Practice" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -294,20 +352,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.ArraysOfStrings" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraysOfStrings" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -334,50 +391,95 @@
       <workItem from="1586346027863" duration="1578000" />
       <workItem from="1586455867292" duration="27000" />
       <workItem from="1586455929730" duration="289000" />
-      <workItem from="1586466147541" duration="1074000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1585666915952">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587391290018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587391290018" />
+    <state x="718" y="154" width="464" height="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1588594954722">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585666915952" />
+    <state x="718" y="154" width="464" height="248" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588594954722" />
     <state x="833" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584371432647">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="833" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1584371432647" />
-    <state x="412" y="5" key="CommitChangelistDialog2" timestamp="1586467290130">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="671" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588591597610">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="412" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586467290130" />
-    <state width="379" height="696" key="GridCell.Tab.0.bottom" timestamp="1586466570437">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="671" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588591597610" />
+    <state x="743" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586864634603">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="379" height="696" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586466570437" />
-    <state width="379" height="696" key="GridCell.Tab.0.center" timestamp="1586466570436">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="743" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586864634603" />
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom" timestamp="1588620331999">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="379" height="696" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586466570436" />
-    <state width="379" height="696" key="GridCell.Tab.0.left" timestamp="1586466570436">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="379" height="696" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585669090513" />
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588620331999" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center" timestamp="1588620331999">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="379" height="696" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586466570436" />
-    <state width="379" height="696" key="GridCell.Tab.0.right" timestamp="1586466570437">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="379" height="696" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585669090513" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588620331999" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left" timestamp="1588620331999">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="379" height="696" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586466570437" />
+    <state width="379" height="696" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585669090513" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588620331999" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right" timestamp="1588620331999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="379" height="696" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585669090513" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588620331999" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587576019004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587576019004" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587576019004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587576019004" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587576019004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587576019004" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587576019004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587576019004" />
     <state x="570" y="66" key="SettingsEditor" timestamp="1584373554017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="570" y="66" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584373554017" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586467616120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586467616120" />
     <state x="209" y="114" key="new project wizard" timestamp="1586456032815">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -386,9 +488,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585659314349" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585143010531">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1587038141044">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585143010531" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587038141044" />
   </component>
 </project>
