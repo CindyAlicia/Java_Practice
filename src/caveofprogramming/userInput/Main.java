@@ -1,4 +1,4 @@
-package caveofprogramming.userInput;
+package caveofprogramming.userinput;
 
 import java.util.Scanner;
 

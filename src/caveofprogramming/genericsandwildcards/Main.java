@@ -1,6 +1,5 @@
 package caveofprogramming.genericsandwildcards;
 
-import javax.lang.model.type.ArrayType;
 import java.util.ArrayList;
 
 class Machine {
