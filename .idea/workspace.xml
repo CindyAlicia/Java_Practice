@@ -282,9 +282,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Arrays" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Arrays" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main" />
     </list>
